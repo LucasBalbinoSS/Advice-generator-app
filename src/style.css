@@ -65,6 +65,10 @@ img {
     text-align: center;
 }
 
+.divisor-desktop {
+    display: none;
+}
+
 .container-dado-botao {
     background-color: var(--neon-green);
     padding: 18px;
@@ -104,5 +108,17 @@ img {
     }
     to {
         opacity: 2;
+    }
+}
+
+
+/* breakpoints */
+@media (min-width: 500px) {
+    .divisor-mobile {
+        display: none;
+    }
+
+    .divisor-desktop {
+        display: block;
     }
 }
