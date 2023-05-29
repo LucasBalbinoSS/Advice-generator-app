@@ -36,7 +36,7 @@ img {
 .container-citacao {
     background-color: var(--dark-grayish-blue);
     color: var(--clight-cyan);
-    height: 400px;
+    min-height: 500px;
     max-width: 550px;
     border-radius: 10px;
     padding-inline: 20px;
