@@ -11,3 +11,8 @@ On that page the user can:
 What did I learn in this project?
 <br>
 I learned how to use data from a `API`, and how to put that on the `HTML`.
+
+---
+
+## Project:
+![Print 2023-05-29 at 11 56 03](https://github.com/LucasBalbinoSS/Advice-generator-app/assets/82191848/3319364f-5b9a-4ca1-8602-59f07b60070a)
