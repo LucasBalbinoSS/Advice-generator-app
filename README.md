@@ -1,4 +1,6 @@
 # Advice-generator-app
+[👉 Click here to see the project](https://lucasbalbinoss.github.io/Advice-generator-app/src/index.html)
+<br>
 The Advice generator page is a JavaScript training project. 📚
 
 On that page the user can:
