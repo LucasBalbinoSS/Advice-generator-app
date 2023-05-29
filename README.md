@@ -7,4 +7,5 @@ On that page the user can:
 - View the card on diferents type of screens.
 
 What did I learn in this project?
+<br>
 I learned how to use data from a API, and how to put that on the `HTML`.
