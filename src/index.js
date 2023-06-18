@@ -1,9 +1,12 @@
 (() => {
+    document.addEventListener('DOMContentLoaded', () => {
+        requisicao()
+        requisicaoClique()
+    })
+
+
     const $conselho = document.querySelector('.js-conselho')
     const $citacao = document.querySelector('.js-citacao')
-    
-    requisicao()
-    requisicaoClique()
 
 
     // funcoes
